@@ -1,5 +1,10 @@
 
 # MediVision AI : Diagnose with Clarity, Treat with Confidence.
+⚠️ This project was originally created by Aansh Garg. This fork is maintained by [Aansh Garg](https://github.com/ANSH2736)
+## Live Demo
+
+Try the MediVision AI app live here: [MediVision AI Live](https://medivisionai.streamlit.app/)
+
  
 
 # Problem Statement
